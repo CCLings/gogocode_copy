@@ -1,6 +1,6 @@
 # GOGOCODE
 
-东半球全网最简单易上手，可能是可读性最强的 AST 处理工具！
+东半球全网最简单易上手，可能是可读性最强的 AST 处理工具！代码转换时如此美妙！
 
 官网：https://gogocode.io
 
@@ -10,7 +10,7 @@
 
 GoGoCode服务+交流钉钉群：34266233；qq群：735216094
 
-# Install
+# Install废弃
 
 ```
     npm install gogocode
